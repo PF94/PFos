@@ -26,5 +26,8 @@
     <ClCompile Include="PFos.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="highLevel.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
